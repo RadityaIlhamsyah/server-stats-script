@@ -13,3 +13,4 @@ Skrip Bash sederhana untuk menganalisis statistik kinerja server Linux secara in
 1. Clone repositori ini:
    ```bash
    git clone [[https://github.com/username-anda/server-stats-script.git]](https://github.com/RadityaIlhamsyah/server-stats-script.git)
+   Project URL: https://roadmap.sh/projects/server-stats
